@@ -1,0 +1,44 @@
+Day 2 - Network Fundamentals
+Source: TryHackMe - Pre Security Path
+Room: Module 2 - Network Fundamentals
+Date: 23/02/2026
+Time spent: 18 hours
+Tasks completed: 5/5 rooms
+
+What I Learned:
+
+* Learnt about What is Networking including the Internet, how devices communicate, and the importance of IP addresses and MAC addresses.
+
+* Understood LAN (Local Area Network) topologies including Star, Bus, and Ring topology, and learned about network devices like routers, switches, and hubs.
+
+* Learnt about the OSI Model and its 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application, and how data flows through each layer.
+
+* Understood Packets and Frames including their structure, how data is encapsulated at different layers, TCP 3-way handshake, and the difference between TCP and UDP protocols.
+
+* Learnt about Extending Your Network covering port forwarding, firewalls, VPN (Virtual Private Network), and how networks can be connected across different locations.
+
+* Understood key networking concepts like subnetting, private vs public IP addresses, and common port numbers (HTTP 80, HTTPS 443, SSH 22, FTP 21).
+
+Key Takeaways:
+
+* Grasped how data travels through networks using the OSI model as a reference.
+
+* Understood the difference between Layer 2 (Data Link - MAC addresses) and Layer 3 (Network - IP addresses).
+
+* Learned that TCP is reliable but slower while UDP is faster but unreliable.
+
+* Realized the importance of network security through firewalls and proper network segmentation.
+
+Questions/Confusions:
+
+* Still confused about subnetting calculations and CIDR notation.
+
+* Need more clarity on the difference between routers and switches in practical scenarios.
+
+* Confused about how VPN encryption actually works.
+
+Next Session:
+
+* Start Module 3: How The Web Works
+* Learn about DNS and HTTP/HTTPS
+* Understand how websites function
