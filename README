@@ -1,0 +1,64 @@
+# TryHackMe - Pre Security Path
+
+Learning documentation for TryHackMe Pre Security Path.
+
+## Current Progress
+
+Module: Module 1 - Cyber Security Introduction
+Status: Completed
+Date: 21/02/2026
+
+## Module 1 Summary
+
+Completed 3 rooms:
+1. Introduction to Offensive Security
+2. Introduction to Defensive Security
+3. Careers in Cyber Security
+
+## What I Learned
+
+### Offensive Security
+- Penetration testing phases and methodology
+- Tools: GoBuster, Burp Suite, Nmap, Metasploit
+- Importance of authorization and ethical behavior
+
+### Defensive Security
+- SOC operations and monitoring
+- Digital forensics and investigation
+- Incident response phases
+- Malware analysis techniques
+
+### Career Paths
+- Various roles in offensive security (Pentester, Red Team, Bug Bounty)
+- Various roles in defensive security (SOC Analyst, Incident Responder, Forensics)
+- Salary ranges from $55k to $180k+
+- Required skills and certifications
+
+## Files
+
+- notes.txt - Daily learning summary
+- writeup.txt - Detailed breakdown of all concepts
+- README.md - This file
+
+## Next Steps
+
+Module 2: Network Fundamentals
+- OSI Model
+- TCP/IP protocols
+- Network devices
+- Packets and frames
+
+## Key Takeaways
+
+- Understood difference between offensive and defensive security
+- Learned about various career options in cybersecurity
+- Recognized importance of proper authorization
+- Gained knowledge of security tools and methodologies
+
+## Resources
+
+- TryHackMe Platform: https://tryhackme.com
+- Pre Security Path: https://tryhackme.com/path/outline/presecurity
+
+---
+
